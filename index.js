@@ -13,3 +13,7 @@ function fn3(){
 function fn4(){
     console.log('this is 4th function')
 }
+
+function newmerge(){
+    console.log('this is newmerge function')
+}
