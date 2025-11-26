@@ -1,3 +1,7 @@
 function hello(){
-    console.log('hell')
+    console.log('hello')
+}
+
+function sayHello(){
+    console.log('this is new f')
 }
