@@ -14,6 +14,13 @@ function fn4(){
     console.log('this is 4th function')
 }
 
+
+function fn5(){
+    console.log('this is 5th function')
+
+}
+
+ DemoBranch02
 function newmerge(){
     console.log('this is newmerge function')
 }
