@@ -9,3 +9,7 @@ function sayHello(){
 function fn3(){
     console.log('this is 3rd function')
 }
+
+function fn4(){
+    console.log('this is 4th function')
+}
