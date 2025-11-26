@@ -3,5 +3,9 @@ function hello(){
 }
 
 function sayHello(){
-    console.log('this is new f')
+    console.log('this is new fn')
+}
+
+function fn3(){
+    console.log('this is 3rd function')
 }
