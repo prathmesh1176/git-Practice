@@ -21,3 +21,7 @@ function newmerge(){
 function fn7(){
     console.log('this is 7th function')
 }
+
+function fn8(){
+    console.log('this is 8th fn')
+}
