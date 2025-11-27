@@ -17,9 +17,11 @@ function fn4(){
 
 function fn5(){
     console.log('this is 5th function')
-
 }
 
+function Fn6(){
+    console.log('this is 6th fn')
+}
 
 function newmerge(){
     console.log('this is newmerge function')
@@ -32,6 +34,8 @@ function fn7(){
 function fn8(){
     console.log('this is 8th fn')
 }
-function Fn6(){
-    console.log('this is 6th fn')
+
+function fn9(){
+    console.log('this is 9th fn')
+
 }
