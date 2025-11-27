@@ -20,7 +20,7 @@ function fn5(){
 
 }
 
- DemoBranch02
+
 function newmerge(){
     console.log('this is newmerge function')
 }
@@ -31,4 +31,7 @@ function fn7(){
 
 function fn8(){
     console.log('this is 8th fn')
+}
+function Fn6(){
+    console.log('this is 6th fn')
 }
