@@ -17,3 +17,7 @@ function fn4(){
 function fn5(){
     console.log('this is 5th function')
 }
+
+function fn9(){
+    console.log('this is 9th fn')
+}
